@@ -5,7 +5,7 @@ A simulated enterprise network built from scratch using
 Blue-Team security fundamentals.
 
 ## 📌 Overview
-- 12+ Cisco devices: ISP router, edge router, Layer-3 core
+- 18 Cisco devices: ISP router, edge router, Layer-3 core
   switch, and 5 access switches (HRD, Finance, IT, Guest, Server)
 - 5 VLANs for department segmentation
 - Inter-VLAN routing, DHCP, NAT, and static routing
