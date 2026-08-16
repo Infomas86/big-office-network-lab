@@ -13,7 +13,8 @@ Blue-Team security fundamentals.
 - Centralized syslog server and NTP time synchronization
 
 ## 🗺️ Topology
-![Topology](docs/topology.png)
+<img width="1902" height="713" alt="Screenshot 2026-08-17 012105" src="https://github.com/user-attachments/assets/819a39a5-4fa7-4c52-bc68-e059afc4f45e" />
+
 
 ## 🧱 VLAN & IP Plan
 | VLAN | Name   | Network       | Gateway     |
@@ -58,4 +59,4 @@ Blue-Team security fundamentals.
 
 ## 👤 Author
 Ibra Febriano — Aspiring Network & Security Engineer
-[LinkedIn](<link-linkedin-kamu>)
+[LinkedIn][(<link-linkedin-kamu>)](https://www.linkedin.com/in/ibrafebriano/)
