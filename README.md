@@ -58,5 +58,6 @@ Blue-Team security fundamentals.
 3. See `configs/` for full device configurations
 
 ## 👤 Author
-Ibra Febriano — Aspiring Network & Security Engineer
-[LinkedIn][(<link-linkedin-kamu>)](https://www.linkedin.com/in/ibrafebriano/)
+
+Ibra Febriano 
+[LinkedIn](https://www.linkedin.com/in/ibrafebriano)
